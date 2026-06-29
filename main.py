@@ -7,11 +7,11 @@ import opencc
 
 # ===================== 全局核心配置 =====================
 # 指定按TXT文件内顺序排列的分类，其余自动字典序排序，按需增删ÏÒ
-ORDERED_CHANNEL_TYPES = ["央视频道", "卫视频道", "港澳台", "电影", "电视剧", "埋堆堆", "咪咕直播"]
+ORDERED_CHANNEL_TYPES = ["卫视频道", "港澳台", "埋堆堆", "咪咕直播"]
 # 频道名称清理字符集
 REMOVAL_LIST = [
     "「IPV4」", "「IPV6」", "[ipv6]", "[ipv4]", "_电信", "电信", "（HD）", "[超清]","高清", "超清", "-HD", "(HK)", "AKtv", "@", 
-    "IPV6", "🎞️", "🎦","[BD]", "[VGA]", "[HD]", "[SD]", "(1080p)", "(720p)", "(480p)", "HD", "｜", "NewTV-", "New_"
+    "IPV6", "🎞️", "🎦","[BD]", "[VGA]", "[HD]", "[SD]", "(1080p)", "(720p)", "(480p)", "HD", "｜", "NewTV-", "New_", "超高清", "高清测试"
 ]
 # 网络请求配置
 USER_AGENT = "PostmanRuntime-ApipostRuntime/1.1.0"
@@ -146,9 +146,9 @@ def correct_channel_name(name: str, corrections: dict) -> str:
 def load_channel_dictionaries(main_dir: str, local_dir: str) -> tuple[dict, dict]:
     # 主频道数组
     main_name_list = [
-        "央视频道", "卫视频道", "体育频道", "电影", "电视剧", "港澳台",
-        "国际台", "纪录片", "戏曲频道", "解说频道", "春晚", "NewTV",
-        "iHOT", "儿童频道", "综艺频道", "埋堆堆", "音乐频道", "游戏频道",
+        "央视频道", "卫视频道", "体育频道", "港澳台",
+        "国际台", "纪录片", "戏曲频道",
+        "iHOT", "儿童频道", "综艺频道", "埋堆堆",
         "收音机频道", "直播中国", "MTV", "咪咕直播"
     ]
     # 自动生成 {分类名: 分类名.txt}
@@ -156,11 +156,7 @@ def load_channel_dictionaries(main_dir: str, local_dir: str) -> tuple[dict, dict
 
     # 地方台数组
     local_name_list = [
-        "上海频道", "浙江频道", "江苏频道", "广东频道", "湖南频道", "安徽频道",
-        "海南频道", "内蒙频道", "湖北频道", "辽宁频道", "陕西频道", "山西频道",
-        "山东频道", "云南频道", "北京频道", "重庆频道", "福建频道", "甘肃频道",
-        "广西频道", "贵州频道", "河北频道", "河南频道", "黑龙江频道", "吉林频道",
-        "江西频道", "宁夏频道", "青海频道", "四川频道", "天津频道", "新疆频道"
+        "广东频道"
     ]
     local_channels = {name: f"{name}.txt" for name in local_name_list}
 
@@ -351,8 +347,8 @@ def generate_live_text(classifier: ChannelClassifier, main_dict: dict) -> tuple[
     # 生成lite精简版
     lite_lines = header.copy()
     lite_sort_types = [
-        "央视频道", "卫视频道", "港澳台", "电影", "电视剧", "综艺频道",
-        "NewTV", "iHOT", "体育频道", "咪咕直播", "埋堆堆", "音乐频道", "游戏频道", "解说频道"
+        "卫视频道", "港澳台", "综艺频道",
+        "NewTV", "iHOT", "体育频道", "咪咕直播", "埋堆堆"
     ]
     for chn_type in lite_sort_types:
         chn_data = classifier.get_channel_data(chn_type)
@@ -363,12 +359,7 @@ def generate_live_text(classifier: ChannelClassifier, main_dict: dict) -> tuple[
     # 补全剩余生成full版
     full_lines = lite_lines.copy() + ['\n']
     full_other_types = [
-        "儿童频道", "国际台", "纪录片", "戏曲频道", "上海频道", "湖南频道",
-        "湖北频道", "广东频道", "浙江频道", "山东频道", "江苏频道", "安徽频道",
-        "海南频道", "内蒙频道", "辽宁频道", "陕西频道", "山西频道", "云南频道",
-        "北京频道", "重庆频道", "福建频道", "甘肃频道", "广西频道", "贵州频道",
-        "河北频道", "河南频道", "黑龙江频道", "吉林频道", "江西频道", "宁夏频道",
-        "青海频道", "四川频道", "天津频道", "新疆频道", "春晚", "直播中国", "MTV", "收音机频道"
+        "儿童频道", "国际台", "纪录片", "戏曲频道", "广东频道", "直播中国", "MTV", "收音机频道"
     ]
     for chn_type in full_other_types:
         chn_data = classifier.get_channel_data(chn_type)

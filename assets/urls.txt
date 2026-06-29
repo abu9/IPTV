@@ -91,3 +91,4 @@ https://m3u.ibert.me/txt/y_g.txt
 https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 http://tot.totalh.net/tttt.txt
+https://raw.githubusercontent.com/alantang1977/X/c95c2c0f59b1c5e82fc8a0745a70e6a7426a17e9/live/live_ipv4.m3u

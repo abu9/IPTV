@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://ghfast.top/https://github.com/CCSH/IPTV/raw/refs/heads/main/e.xml.gz"
-#EXTINF:-1  tvg-name="20260701 05:42" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/20260701 05:42.png"  group-title="更新时间",20260701 05:42
+#EXTINF:-1  tvg-name="20260702 05:41" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/20260702 05:41.png"  group-title="更新时间",20260702 05:41
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1  tvg-name="湖南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视.png"  group-title="卫视频道",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
@@ -2075,8 +2075,6 @@ https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
 http://cdn.163189.xyz/live/asam/stream.m3u8
 #EXTINF:-1  tvg-name="澳视澳门" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳视澳门.png"  group-title="港澳台",澳视澳门
 https://cdn.163189.xyz/live/asam/stream.m3u8
-#EXTINF:-1  tvg-name="澳视澳门" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳视澳门.png"  group-title="港澳台",澳视澳门
-https://t.freetv.fun/live/ao-shi-ao-men.m3u8
 #EXTINF:-1  tvg-name="澳视卫星" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳视卫星.png"  group-title="港澳台",澳视卫星
 https://cdn6.163189.xyz/163189/as
 #EXTINF:-1  tvg-name="澳视卫星" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/澳视卫星.png"  group-title="港澳台",澳视卫星
@@ -2106,9 +2104,9 @@ http://rihou.cc:555/tv/TVBS1
 #EXTINF:-1  tvg-name="TVBS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS.png"  group-title="港澳台",TVBS
 https://t.freetv.fun/live/tvbs.m3u8
 #EXTINF:-1  tvg-name="TVBS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS.png"  group-title="港澳台",TVBS
-https://t.freetv.fun/live/tvbstai-ju.php
-#EXTINF:-1  tvg-name="TVBS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS.png"  group-title="港澳台",TVBS
 https://t.freetv.fun/live/tvbs-1.m3u8
+#EXTINF:-1  tvg-name="TVBS" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS.png"  group-title="港澳台",TVBS
+https://t.freetv.fun/live/tvbstai-ju.php
 #EXTINF:-1  tvg-name="TVBS新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS新闻台.png"  group-title="港澳台",TVBS新闻台
 https://t.freetv.fun/live/tvbsxin-wen-1.m3u8
 #EXTINF:-1  tvg-name="TVBS新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS新闻台.png"  group-title="港澳台",TVBS新闻台
@@ -2121,6 +2119,8 @@ http://rihou.cc:555/tv/[FY]tvbS新闻
 https://t.freetv.fun/live/tvbsxin-wen.m3u8
 #EXTINF:-1  tvg-name="TVBS新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS新闻台.png"  group-title="港澳台",TVBS新闻台
 https://t.freetv.fun/live/tvbsxin-wen-1-1.m3u8
+#EXTINF:-1  tvg-name="TVBS新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS新闻台.png"  group-title="港澳台",TVBS新闻台
+https://t.freetv.fun/live/tvbsxin-wen-1-2.php
 #EXTINF:-1  tvg-name="TVBS新闻台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS新闻台.png"  group-title="港澳台",TVBS新闻台
 https://www.youtube.com/watch
 #EXTINF:-1  tvg-name="TVBS精采台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS精采台.png"  group-title="港澳台",TVBS精采台
@@ -2201,6 +2201,8 @@ https://t.freetv.fun/live/min-shi-1.ts
 https://t.freetv.fun/live/min-shi-1-1.ts
 #EXTINF:-1  tvg-name="民视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视.png"  group-title="港澳台",民视
 https://t.freetv.fun/live/min-shi-1.php
+#EXTINF:-1  tvg-name="民视台湾台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视台湾台.png"  group-title="港澳台",民视台湾台
+https://t.freetv.fun/live/min-shi-tai-wan.m3u8
 #EXTINF:-1  tvg-name="民视影剧台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视影剧台.png"  group-title="港澳台",民视影剧台
 https://t.freetv.fun/live/min-shi-ying-ju.php
 #EXTINF:-1  tvg-name="民视第一台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/民视第一台.png"  group-title="港澳台",民视第一台
@@ -2371,8 +2373,6 @@ http://t.061899.xyz/tl/dq.php?id=jbty
 http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1  tvg-name="劲爆体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png"  group-title="体育频道",劲爆体育
 http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-#EXTINF:-1  tvg-name="劲爆体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png"  group-title="体育频道",劲爆体育
-https://t.freetv.fun/live/jing-bao-ti-yu.m3u8
 #EXTINF:-1  tvg-name="劲爆体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/劲爆体育.png"  group-title="体育频道",劲爆体育
 http://8.138.7.223/tv/migu3.php?id=jbty
 #EXTINF:-1  tvg-name="咪咕体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/咪咕体育.png"  group-title="体育频道",咪咕体育

@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260701 05:42,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260702 05:41,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 卫视频道,#genre#
@@ -1043,7 +1043,6 @@ Channel[V],http://rihou.cc:555/tv/Channel+V
 澳视澳门,https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
 澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
-澳视澳门,https://t.freetv.fun/live/ao-shi-ao-men.m3u8
 澳视卫星,https://cdn6.163189.xyz/163189/as
 澳视卫星,http://r.jdshipin.com/QFhCq
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
@@ -1058,14 +1057,15 @@ AstroAEC,https://t.freetv.fun/live/aec.m3u8
 AstroAEC,https://t.freetv.fun/live/astro-aec-tv.ts
 TVBS,http://rihou.cc:555/tv/TVBS1
 TVBS,https://t.freetv.fun/live/tvbs.m3u8
-TVBS,https://t.freetv.fun/live/tvbstai-ju.php
 TVBS,https://t.freetv.fun/live/tvbs-1.m3u8
+TVBS,https://t.freetv.fun/live/tvbstai-ju.php
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻台,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen.m3u8
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1-1.m3u8
+TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1-2.php
 TVBS新闻台,https://www.youtube.com/watch
 TVBS精采台,https://t.freetv.fun/live/tvbsjing-cai.php
 TVBS精采台,https://t.freetv.fun/live/tvbsjing-cai-1.m3u8
@@ -1106,6 +1106,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 民视,https://t.freetv.fun/live/min-shi-1.ts
 民视,https://t.freetv.fun/live/min-shi-1-1.ts
 民视,https://t.freetv.fun/live/min-shi-1.php
+民视台湾台,https://t.freetv.fun/live/min-shi-tai-wan.m3u8
 民视影剧台,https://t.freetv.fun/live/min-shi-ying-ju.php
 民视第一台,https://t.freetv.fun/live/min-shi-di-yi.m3u8
 民视综艺台,https://t.freetv.fun/live/min-shi-zong-yi.php
@@ -1200,7 +1201,6 @@ ELEVEN体育2,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
 劲爆体育,http://t.061899.xyz/tl/dq.php?id=jbty
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-劲爆体育,https://t.freetv.fun/live/jing-bao-ti-yu.m3u8
 劲爆体育,http://8.138.7.223/tv/migu3.php?id=jbty
 咪咕体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 广东体育,http://61.145.242.11:9088/hls/18/index.m3u8

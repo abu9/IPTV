@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260704 05:13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260704 18:28,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 卫视频道,#genre#
@@ -817,7 +817,7 @@
 海峡卫视,http://222.140.13.12:1234/849119120
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260702160210&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=171.8.79.254&SecurityKey=20260702160210&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=964bb60ba8cb5b27a187591bfb9289a1&sv=10004&ct=android
-海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=#http://8.138.7.223/tv/hxws.m3u8
+海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-3.m3u8
 
 
 港澳台,#genre#
@@ -898,6 +898,9 @@ TVB星河,http://php.jdshipin.com/smt.php
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,https://t.freetv.fun/live/wu-xian-xin-wen-1.flv
+无线新闻,https://t.freetv.fun/live/wu-xian-xin-wen.php
+无线新闻,https://t.freetv.fun/live/wu-xian-xin-wen-1-1.php
+无线新闻,https://t.freetv.fun/live/wu-xian-xin-wen-1-2.flv
 无线新闻,https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 无线新闻,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
 无线新闻,https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
@@ -935,6 +938,8 @@ HOY78,https://cdn.163189.xyz/163189/hoy78
 HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY资讯台,https://t.freetv.fun/live/hoyzi-xun.m3u8
 HOY资讯台,https://t.freetv.fun/live/hoyzi-xun-1.m3u8
+HOY资讯台,https://t.freetv.fun/live/hoyzi-xun.php
+HOY资讯台,https://t.freetv.fun/live/hoyzi-xun-1.php
 有线新闻,https://stream1.freetv.fun/you-xian-xin-wen-1.m3u8
 有线新闻,https://stream1.freetv.fun/you-xian-xin-wen-2.m3u8
 有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -963,6 +968,8 @@ HOY资讯台,https://t.freetv.fun/live/hoyzi-xun-1.m3u8
 美亚电影,https://stream1.freetv.fun/mei-ya-dian-ying-2.ctv
 美亚电影,https://stream1.freetv.fun/mei-ya-dian-ying-5.ctv
 美亚电影,http://zjrtv.vip/live/?tbs=mydy
+美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying-1.php
+美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying-2.php
 美亚电影,https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
 美亚电影,https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
 凤凰中文,http://115.44.140.170:18180/TV00000000000000000008@HHZT
@@ -1060,13 +1067,19 @@ TVBS,http://rihou.cc:555/tv/TVBS1
 TVBS,https://t.freetv.fun/live/tvbs.m3u8
 TVBS,https://t.freetv.fun/live/tvbs-1.m3u8
 TVBS,https://t.freetv.fun/live/tvbstai-ju.php
+TVBS,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00MiZrZXk9JTJBJTJBJTJBJTJB
+TVBS,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00MyZrZXk9KioqKg==
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻台,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen.m3u8
+TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1.php
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1-1.m3u8
+TVBS新闻台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD01MSZrZXk9KioqKg==
+TVBS新闻台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00OSZrZXk9JTJBJTJBJTJBJTJB
 TVBS新闻台,https://www.youtube.com/watch
+TVBS欢乐台,https://t.freetv.fun/live/tvbshuan-le.m3u8
 TVBS精采台,https://t.freetv.fun/live/tvbsjing-cai.php
 TVBS精采台,https://t.freetv.fun/live/tvbsjing-cai-1.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -1085,6 +1098,11 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 中视,https://t.freetv.fun/live/zhong-shi-2.ts
 中视,https://t.freetv.fun/live/zhong-shi.ts
 中视,https://t.freetv.fun/live/zhong-shi-1-1.m3u8
+中视,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yMiZrZXk9JTJBJTJBJTJBJTJB
+中视,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yMiZrZXk9KioqKg==
+中视,https://t.freetv.fun/live/zhong-shi-2.php
+中视,https://t.freetv.fun/live/zhong-shi-3.ts
+中视,https://t.freetv.fun/live/zhong-shi-2-1.php
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=BPKZgZ&tk=SLK5QjnsRiya
@@ -1092,7 +1110,10 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 中视新闻,https://stream1.freetv.fun/zhong-shi-xin-wen-5.ctv
 中视新闻,https://stream1.freetv.fun/zhong-shi-xin-wen-3.m3u8
 中视新闻,https://stream1.freetv.fun/zhong-shi-xin-wen-4.m3u8
-中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
+中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
+中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen.php
+中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
+中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.php
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视经典,https://stream1.freetv.fun/zhong-shi-jing-dian-3.ctv
 中视经典,https://stream1.freetv.fun/zhong-shi-jing-dian-1.ctv
@@ -1106,16 +1127,31 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 民视,https://stream1.freetv.fun/min-shi-6.ctv
 民视,https://t.freetv.fun/live/min-shi-1.ts
 民视,https://t.freetv.fun/live/min-shi-1-1.ts
-民视,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
+民视,https://t.freetv.fun/live/min-shi-1.m3u8
+民视,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yNCZrZXk9KioqKg==
+民视,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yNCZrZXk9JTJBJTJBJTJBJTJB
+民视,https://t.freetv.fun/live/min-shi-2.php
+民视,https://t.freetv.fun/live/min-shi-1.php
+民视,https://t.freetv.fun/live/min-shi-3-1.m3u8
 民视台湾台,https://t.freetv.fun/live/min-shi-tai-wan.m3u8
+民视台湾台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yNSZrZXk9JTJBJTJBJTJBJTJB
+民视台湾台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yNSZrZXk9KioqKg==
 民视影剧台,https://t.freetv.fun/live/min-shi-ying-ju.php
+民视第一台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yNiZrZXk9JTJBJTJBJTJBJTJB
+民视第一台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yNiZrZXk9KioqKg==
 民视综艺台,https://t.freetv.fun/live/min-shi-zong-yi.php
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视,https://t.freetv.fun/live/gong-shi-1.ts
 公视,https://t.freetv.fun/live/gong-shi.ts
+公视,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yOSZrZXk9JTJBJTJBJTJBJTJB
+公视,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yOSZrZXk9KioqKg==
+公视,https://t.freetv.fun/live/gong-shi-1.php
+公视,https://t.freetv.fun/live/gong-shi-2.ts
+公视,https://t.freetv.fun/live/gong-shi-1-1.php
 公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 东森新闻台,https://t.freetv.fun/live/dong-sen-xin-wen.ts
 东森新闻台,https://t.freetv.fun/live/dong-sen-xin-wen-1.m3u8
+东森新闻台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00NSZrZXk9KioqKg==
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
@@ -1139,11 +1175,18 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-xin-wen-4.m3u8
 华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.m3u8
-华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+华视新闻,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00NyZrZXk9KioqKg==
+华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen-1.m3u8
+华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen-1-1.php
+华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.php
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
-靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
+靖天映画,https://t.freetv.fun/live/jing-tian-ying-hua.m3u8
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华偶像,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0zOCZrZXk9JTJBJTJBJTJBJTJB
+龙华偶像,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0zOCZrZXk9KioqKg==
+龙华偶像,https://t.freetv.fun/live/long-hua-ou-xiang.php
+龙华偶像,https://t.freetv.fun/live/long-hua-ou-xiang-1.php
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 龙华洋片,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=P4JMrn&tk=SLK5QjnsRiya
@@ -1152,13 +1195,28 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 龙华电影,https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=ZcFnhW&tk=SLK5QjnsRiya
+龙华电影,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0zOSZrZXk9JTJBJTJBJTJBJTJB
+龙华电影,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0zOSZrZXk9KioqKg==
+龙华电影,https://t.freetv.fun/live/long-hua-dian-ying.php
+龙华电影,https://t.freetv.fun/live/long-hua-dian-ying-1.php
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
+龙华经典,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00MCZrZXk9JTJBJTJBJTJBJTJB
+龙华经典,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00MCZrZXk9KioqKg==
+龙华经典,https://t.freetv.fun/live/long-hua-jing-dian.php
+龙华经典,https://t.freetv.fun/live/long-hua-jing-dian-1.php
 台视,rtmp://f13h.mine.nu/sat/tv071
 台视,http://74.91.26.218:82/live/ttv.m3u8
 台视,https://t.freetv.fun/live/tai-shi.ts
+台视,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yNyZrZXk9JTJBJTJBJTJBJTJB
+台视,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0yNyZrZXk9KioqKg==
+台视,https://t.freetv.fun/live/tai-shi-1.php
+台视,https://t.freetv.fun/live/tai-shi-1-2.php
 台视新闻台,https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
+台视新闻台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00OSZrZXk9KioqKg==
 台视财经台,https://t.freetv.fun/live/tai-shi-cai-jing.ts
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+三立台湾台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0zNyZrZXk9JTJBJTJBJTJBJTJB
+三立台湾台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0zNyZrZXk9KioqKg==
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju-1.m3u8
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju-2.m3u8
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju-4.m3u8
@@ -1249,6 +1307,10 @@ ELEVEN体育2,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
 纬来体育,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
 纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
+纬来体育,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD01NiZrZXk9JTJBJTJBJTJBJTJB
+纬来体育,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD01OCZrZXk9KioqKg==
+纬来体育,https://t.freetv.fun/live/wei-lai-ti-yu.php
+纬来体育,https://t.freetv.fun/live/wei-lai-ti-yu-2.php
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 辽宁体育,http://119.29.233.26:1234/962067526
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8

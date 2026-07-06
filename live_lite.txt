@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260706 05:08,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260707 05:41,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 卫视频道,#genre#
@@ -817,7 +817,7 @@
 海峡卫视,http://222.140.13.12:1234/849119120
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260702160210&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=171.8.79.254&SecurityKey=20260702160210&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=964bb60ba8cb5b27a187591bfb9289a1&sv=10004&ct=android
-海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-3.m3u8
+海峡卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260706080234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=171.8.79.254&SecurityKey=20260706080234&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d000fd58d2681e010a179b7f6f406911&sv=10004&ct=android
 
 
 港澳台,#genre#
@@ -859,6 +859,7 @@ TVBPearl,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVBPearl,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 TVBPearl,http://r.jdshipin.com/GeWKr?id=mzt720
 TVBPearl,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+TVBPearl,https://t.freetv.fun/live/ming-zhu-tai.m3u8
 TVBPearl,http://php.jdshipin.com/TVOD/iptv.php
 TVBPlus,https://t.freetv.fun/live/tvb-plus-2.m3u8
 TVBPlus,https://t.freetv.fun/live/metv-plus.m3u8
@@ -929,7 +930,6 @@ HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY资讯台,https://t.freetv.fun/live/hoyzi-xun.m3u8
 HOY资讯台,https://t.freetv.fun/live/hoyzi-xun-1.m3u8
 HOY资讯台,https://t.freetv.fun/live/hoyzi-xun.php
-HOY资讯台,https://t.freetv.fun/live/hoyzi-xun-1.php
 有线新闻,https://stream1.freetv.fun/you-xian-xin-wen-1.m3u8
 有线新闻,https://stream1.freetv.fun/you-xian-xin-wen-2.m3u8
 有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -1055,7 +1055,6 @@ AstroAEC,https://t.freetv.fun/live/astro-aec-tv.ts
 TVBS,http://rihou.cc:555/tv/TVBS1
 TVBS,https://t.freetv.fun/live/tvbs.m3u8
 TVBS,https://t.freetv.fun/live/tvbs-1.m3u8
-TVBS,https://t.freetv.fun/live/tvbs-3.php
 TVBS,https://t.freetv.fun/live/tvbstai-ju.php
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -1067,7 +1066,6 @@ TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1-1.m3u8
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1-2.php
 TVBS欢乐台,https://t.freetv.fun/live/tvbshuan-le.m3u8
 TVBS精采台,https://t.freetv.fun/live/tvbsjing-cai.php
-TVBS精采台,https://t.freetv.fun/live/tvbsjing-cai-1.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
@@ -1084,7 +1082,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 中视,https://t.freetv.fun/live/zhong-shi-2.ts
 中视,https://t.freetv.fun/live/zhong-shi.ts
 中视,https://t.freetv.fun/live/zhong-shi-1-1.m3u8
-中视,https://t.freetv.fun/live/zhong-shi-2-1.php
 中视,https://t.freetv.fun/live/zhong-shi-3.ts
 中视,https://t.freetv.fun/live/zhong-shi-2.php
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
@@ -1109,12 +1106,12 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 民视,https://stream1.freetv.fun/min-shi-6.ctv
 民视,https://t.freetv.fun/live/min-shi-1.ts
 民视,https://t.freetv.fun/live/min-shi-1-1.ts
-民视,https://t.freetv.fun/live/min-shi-1.php
 民视,https://t.freetv.fun/live/min-shi-2.php
+民视,https://t.freetv.fun/live/min-shi-3.php
+民视,https://t.freetv.fun/live/min-shi-1.php
 民视,https://t.freetv.fun/live/min-shi-3-1.m3u8
 民视台湾台,https://t.freetv.fun/live/min-shi-tai-wan.php
-民视台湾台,https://t.freetv.fun/live/min-shi-tai-wan-1.m3u8
-民视台湾台,https://t.freetv.fun/live/min-shi-tai-wan-1-1.php
+民视台湾台,https://t.freetv.fun/live/min-shi-tai-wan-1.php
 民视影剧台,https://t.freetv.fun/live/min-shi-ying-ju.php
 民视第一台,https://t.freetv.fun/live/min-shi-di-yi.php
 民视第一台,https://t.freetv.fun/live/min-shi-di-yi-1.php
@@ -1127,7 +1124,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 公视,https://t.freetv.fun/live/gong-shi-1-1.php
 公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 东森新闻台,https://t.freetv.fun/live/dong-sen-xin-wen-1.ts
-东森新闻台,https://t.freetv.fun/live/dong-sen-xin-wen-1-1.m3u8
 东森新闻台,https://t.freetv.fun/live/dong-sen-xin-wen-2.php
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -1151,18 +1147,17 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-xin-wen-4.m3u8
-华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen-1-1.php
 华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen-1.m3u8
 华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.php
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
-靖天映画,https://t.freetv.fun/live/jing-tian-ying-hua.m3u8
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
 龙华偶像,https://t.freetv.fun/live/long-hua-ou-xiang.php
 龙华偶像,https://t.freetv.fun/live/long-hua-ou-xiang-1.php
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 龙华洋片,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=P4JMrn&tk=SLK5QjnsRiya
+龙华洋片,https://t.freetv.fun/live/long-hua-yang-pian-2.php
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华电影,https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
@@ -1170,6 +1165,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 龙华电影,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=ZcFnhW&tk=SLK5QjnsRiya
 龙华电影,https://t.freetv.fun/live/long-hua-dian-ying.php
 龙华电影,https://t.freetv.fun/live/long-hua-dian-ying-1.php
+龙华电影,https://t.freetv.fun/live/long-hua-dian-ying-3.php
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
 龙华经典,https://t.freetv.fun/live/long-hua-jing-dian.php
 龙华经典,https://t.freetv.fun/live/long-hua-jing-dian-1.php
@@ -1273,9 +1269,10 @@ ELEVEN体育2,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
 纬来体育,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
-纬来体育,https://t.freetv.fun/live/wei-lai-ti-yu-2.php
 纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 纬来体育,https://t.freetv.fun/live/wei-lai-ti-yu.php
+纬来体育,https://t.freetv.fun/live/wei-lai-ti-yu-2.php
+纬来体育,https://t.freetv.fun/live/wei-lai-ti-yu-3.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 辽宁体育,http://119.29.233.26:1234/962067526
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8

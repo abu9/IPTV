@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260727 05:03,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260728 05:16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 卫视频道,#genre#
@@ -806,10 +806,10 @@
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 海峡卫视,http://47.104.178.59:3566/849119120
 海峡卫视,https://iptv.catvod.com/migu?id=849119120&token=3f82ab252e5aece3d02b1400b33f3e68
+海峡卫视,https://iptv.catvod.com/migu?id=849119120&token=7c506ce1944accb513fe9d7582db568c
 海峡卫视,http://36.35.16.98:9901/tsfile/live/0150_1.m3u8?key=txiptv&playlive=0&authid=0
 海峡卫视,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.151:8894
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=#http://8.138.7.223/tv/hxws.m3u8
-海峡卫视,https://iptv.catvod.com/migu?id=849119120&token=044c10b713560e2644647c051bd9a00a
 
 
 港澳台,#genre#
@@ -918,7 +918,6 @@ HOY78,https://cdn.163189.xyz/163189/hoy78
 美亚电影,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=R0cwuO&tk=SLK5QjnsRiya
 美亚电影,https://stream1.freetv.fun/mei-ya-dian-ying-2.ctv
 美亚电影,http://zjrtv.vip/live/?tbs=mydy
-美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying-3.php
 凤凰中文,https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
 凤凰中文,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
 凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
@@ -1130,7 +1129,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 台视新闻台,https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
 台视新闻台,https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
 台视新闻台,https://t.freetv.fun/live/tai-shi-xin-wen-1-1.ts
-台视新闻台,https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
+台视新闻台,https://t.freetv.fun/live/tai-shi-xin-wen-1.ts
 台视财经台,https://t.freetv.fun/live/tai-shi-cai-jing-1.m3u8
 台视财经台,https://t.freetv.fun/live/tai-shi-cai-jing.ts
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -1145,7 +1144,6 @@ HBO,https://t.freetv.fun/live/hbo-b.m3u8
 
 综艺频道,#genre#
 巩汉林小品,http://120.78.6.151:8968/yy.php?id=1354889035
-热门综艺,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/GITV-JS-16/GITV-JS-16.m3u8?p=GITV&area=JS_CMCC_CP
 相声小品,http://live.nctv.top/douyu1.php?id=9286868
 相声小品,http://121.24.98.127:8090/hls/101/index.m3u8
 蔡明小品,http://120.78.6.151:8968/yy.php?id=1354936177

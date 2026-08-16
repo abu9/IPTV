@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260816 04:27,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260817 04:28,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 卫视频道,#genre#
@@ -793,6 +793,7 @@
 农林卫视,http://119.166.53.110:9901/tsfile/live/0002_45.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://39.164.143.66:13994/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,http://222.90.21.30:9901/hls/66/index.m3u8#http://gxlive.snrtv.com/nlws-SD.m3u8
+农林卫视,http://112.234.22.76:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 农林卫视,https://t.freetv.fun/live/nong-lin-wei-shi-3.m3u8
 农林卫视,https://t.freetv.fun/live/zhong-guo-nong-lin-wei-shi-2.m3u8
 农林卫视,https://t.freetv.fun/live/zhong-guo-nong-lin-wei-shi-3.m3u8
@@ -852,6 +853,7 @@ TVBPearl,http://67.220.71.199:2347/livehttpplay?channel_id=30026
 TVBPearl,http://67.220.71.199:2347/livehttpplay?channel_id=20125
 TVBPearl,http://r.jdshipin.com/GeWKr?id=mzt720
 TVBPearl,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+TVBPearl,http://27.39.122.2:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 TVBPlus,http://r.jdshipin.com/Nr5jq
 TVBPlus,https://t.freetv.fun/live/atv-plus.m3u8
 TVBPlus,https://t.freetv.fun/live/tv-puls.m3u8
@@ -985,7 +987,6 @@ HOY78,https://cdn.123.rr.kg/163189/hoy78
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
 凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
-凤凰香港,http://36.136.11.230:11888/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰电影,https://t.freetv.fun/live/feng-huang-dian-ying.m3u8
 凤凰电影,https://t.freetv.fun/live/feng-huang-dian-ying-1.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1006,7 +1007,6 @@ Channel[V],http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive
 澳视澳门,https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
 澳视澳门,https://cdn6.123.rr.kg/163189/asam
 澳视澳门,https://t.freetv.fun/live/ao-shi-ao-men.m3u8
-澳视澳门,https://t.freetv.fun/live/ao-shi-ao-men-1.m3u8
 澳视卫星,http://r.jdshipin.com/QFhCq
 澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
 澳视卫星,https://cdn6.163189.xyz/163189/as
@@ -1165,15 +1165,10 @@ HBO,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34571
 
 
 综艺频道,#genre#
-宋小宝小品,https://www.goodiptv.club/douyu/9817729
 巩汉林小品,http://120.78.6.151:8968/yy.php?id=1354889035
-开心麻花小品,https://www.goodiptv.club/douyu/10153463
 相声小品,http://live.nctv.top/douyu1.php?id=9286868
 相声小品,http://121.24.98.127:8090/hls/101/index.m3u8
 蔡明小品,http://120.78.6.151:8968/yy.php?id=1354936177
-许君聪小品,https://www.goodiptv.club/douyu/10419558
-贾玲小品,https://www.goodiptv.club/douyu/10419541
-赵本山小品,https://www.goodiptv.club/douyu/9817716
 
 
 iHOT,#genre#

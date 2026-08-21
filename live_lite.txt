@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260821 04:34,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260822 04:30,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 卫视频道,#genre#
@@ -821,6 +821,7 @@ TVB翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 TVB翡翠台,http://120.198.86.186:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 TVB翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 TVB翡翠台,http://o11.163189.xyz/stream/tvb/fct/#https://mytv.cdn.loc.cc/o12.php?id=fct
+TVB翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
 华丽翡翠台,http://r.jdshipin.com/thuYX
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVBPearl,https://cdn.qd.je/163189/mzt
@@ -829,6 +830,7 @@ TVBPearl,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVBPearl,http://php.jdshipin.com/TVOD/iptv.php
 TVBPearl,http://120.198.86.186:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 TVBPearl,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+TVBPearl,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 TVBPlus,https://t.freetv.fun/live/tv-puls.m3u8
 TVBPlus,https://t.freetv.fun/live/etv-plus.m3u8
 TVBPlus,https://t.freetv.fun/live/etv-plus-1.m3u8

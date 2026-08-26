@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260826 04:35,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260827 06:57,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 卫视频道,#genre#
@@ -969,6 +969,7 @@ TVBS,https://t.freetv.fun/live/tvbs.m3u8
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 TVBS,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34915
 TVBS,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/tvbshd_iphone.m3u8
+TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 TVBS,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34915
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen-1.m3u8
 TVBS新闻台,https://t.freetv.fun/live/tvbsxin-wen.m3u8
@@ -985,6 +986,7 @@ TVBS新闻台,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34818
 中视,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34897
 中视,https://t.freetv.fun/live/zhong-shi-1-1.ts
 中视,https://t.freetv.fun/live/zhong-shi-2.m3u8
+中视,https://t.freetv.fun/live/zhong-shi.m3u8
 中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
@@ -1023,7 +1025,9 @@ TVBS新闻台,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34818
 华视,https://t.freetv.fun/live/hua-shi-1-1.ts
 华视,https://t.freetv.fun/live/hua-shi-2.ts
 华视,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/ctshd_iphone.m3u8
+华视,https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
 华视,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34887
+华视,https://t.freetv.fun/live/hua-shi-2.m3u8
 华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.m3u8
 华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen-1.m3u8
 华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
@@ -1038,7 +1042,6 @@ TVBS新闻台,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34818
 靖天映画,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34838
 靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
-靖天映画,https://t.freetv.fun/live/jing-tian-ying-hua.m3u8
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
 龙华偶像,https://cdn8.123.rr.kg/163189/lhox
 龙华偶像,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34830
